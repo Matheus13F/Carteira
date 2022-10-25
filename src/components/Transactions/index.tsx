@@ -133,7 +133,7 @@ export function TransactionsTable() {
           </div>
         </div>
       ))}
-      <Pagination />
+      {/* <Pagination /> */}
     </div>
   );
 }
