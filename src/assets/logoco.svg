@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="197" viewBox="0 0 405 197">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 58.333px;
+        fill: #fff;
+        font-family: Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #f9b328;
+      }
+
+      .cls-3 {
+        fill: #eba417;
+      }
+    </style>
+  </defs>
+  <text id="C.O" class="cls-1" transform="translate(223.203 125.154) scale(1.756)">C.O</text>
+  <circle class="cls-2" cx="72" cy="99" r="72"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-3" cx="107" cy="99" r="72"/>
+  <text id="_" data-name="$" class="cls-1" transform="translate(85.45 128.477) scale(1.513)">$</text>
+</svg>
